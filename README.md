@@ -77,3 +77,4 @@ Its real-world impact includes:
 Developed with ❤️ using Streamlit (FRONTEND) & Deep Learning (ANN) in Python
 
 ---
+AI Hybridization Algorithm | Tomato Genomics | Genetic Distance Model | Utkarsh Pandey
