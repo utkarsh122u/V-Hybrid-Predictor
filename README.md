@@ -27,10 +27,6 @@ The system captures **complex non-linear relationships** hidden within genetic a
 
 ---
 
-- >Traditional: Soil Testing → Field Trial (Years) → Breeding → Validation (~1yr min.)
-- >AI Hybrid: Data → Prediction → Validation → Deployment (~2 months)
-
----
 ### 🌍 Why It Matters  
 Hybrid breeding forms the backbone of **global agriculture and food production** — yet it still heavily depends on **trial-and-error methods** that waste **time, land, and resources**.
 
@@ -74,7 +70,14 @@ Its real-world impact includes:
 
 ---
 
-Developed with ❤️ using Streamlit (FRONTEND) & Deep Learning (ANN) in Python
+### How to Run
+1. Make sure each and every file given in this git directory in your folder
+2. Make sure to download all the packages and libraries mentioned in requirements.txt
+3. go to the terminal and run following command:
 
+>streamlit run 'Tomato Hybrid Predictor.py'
+
+---
+Developed with ❤️ using Streamlit (FRONTEND) & Deep Learning (ANN) in Python
 ---
 AI Hybridization Algorithm | Tomato Genomics | Genetic Distance Model | Utkarsh Pandey
