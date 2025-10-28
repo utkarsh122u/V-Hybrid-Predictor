@@ -1,0 +1,6 @@
+streamlit
+torch
+pandas
+seaborn
+matplotlib
+joblib
